@@ -1,2 +1,0 @@
-git init to create repository 
-git add <filename> to add file to git repository
